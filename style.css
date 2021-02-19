@@ -98,7 +98,8 @@ p {
 }
 
 .number_2 {
-  margin-left: 400px;
+  position: absolute;
+  right: 20px;
   margin-top: 80px;
   position: absolute;
 }
@@ -141,20 +142,4 @@ img {
 
 .otstup {
   margin-left: 60px;
-}
-
-@media (min-width:320px) and (max-width:1000px) {
-
-   .header {
-    width: 400px;
-   }
-
-   .proverka {
-    width: 400px;
-   }
-
-   body {
-    width: 400px;
-    max-height: 400px;
-   }
 }
