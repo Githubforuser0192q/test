@@ -142,9 +142,3 @@ img {
 .otstup {
   margin-left: 60px;
 }
-
-@media (min-width:320px) and (max-width:1000px) {
-   body {
-      transform: scale(1.1);   
-   }
-}
