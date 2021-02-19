@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  font-family: arial;
+}
+
+.header {
+  background: linear-gradient(90deg, rgba(237,246,246,1) 0%, rgba(250,247,229,1) 50%, rgba(237,246,246,1) 100%);
+  height: 114px;
+  top: 0;
+  left: 0;
+}
+
+.gemotest {
+  color: #007934;
+  font-size: 30px;
+  font-family: arial;
+  position: absolute;
+  padding-top: 42px;
+  padding-left: 20px;
+}
+
+.text {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.validation_2 {
+  height: 98px;;
+  border-top: solid 1px grey;
+  border-bottom: solid 1px grey;
+  margin-top: 20px;
+}
+
+.validation_3 {
+  margin-top: 35px;
+  color: #007934;
+}
+
+.validation {
+  font-size: 14px;
+  color: #007934;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+p {
+  margin-bottom: 0px;
+}
+
+.patient_1 {
+  height: 170px;
+  padding-top: 20px;
+  border-bottom: solid 1px grey;
+}
+
+.patient_2 {
+  margin-top: 20px;
+}
+
+.footer {
+  margin-top: 30px;
+  height: 266px;
+  background: #292e3a;
+}
+
+.n1 {
+  font-size: 14px;
+  color: gray;
+}
+
+.n2 {
+  font-size: 14px;
+  color: black;
+  font-weight: bold;
+}
+
+.footer {
+  color: white;
+}
+
+.contact {
+  margin-left: 20px;
+  margin-top: 20px;
+  position: absolute;
+}
+
+.number {
+  margin-left: 20px;
+  margin-top: 80px;
+  position: absolute;
+}
+
+.number_2 {
+  margin-left: 400px;
+  margin-top: 80px;
+  position: absolute;
+}
+
+.adress {
+  margin-left: 20px;
+  margin-top: 200px;
+  position: absolute;
+}
+
+.telephone {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.support {
+  font-size: 12px;
+}
+
+.help {
+  color: #94969C;
+  font-size: 11px;
+}
+
+.organization {
+  font-size: 12px;
+  color: grey;
+}
+
+.logo {
+  position: absolute;
+  height: 70px;
+  width: 70px;
+  margin-top: 28px;
+}
+
+img {
+  height: 45px;
+}
+
+.otstup {
+  margin-left: 60px;
+}
